@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zauberwild
 - 👀 I’m interested in Arduinos, Raspberry Pis and similar stuff
-- 🌱 I’m currently learning on a voactional school in Germany🇩🇪 (profile: Technology)
+- 🌱 I’m currently learning on a vocational school (Berufsbildende Schule) in Germany 🇩🇪 (profile: Tech)
 - 📫 How to reach me: zauberwild@gmail.com
 
 <!---
