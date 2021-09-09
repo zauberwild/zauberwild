@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zauberwild
+- 👋 Hi, I’m Arvid
 - 👀 I’m interested in Arduinos, Raspberry Pis and similar stuff
 - 🌱 I’m currently learning on a vocational school (Berufsbildende Schule) in Germany 🇩🇪 (profile: tech/mechatronics)
-- 📫 How to reach me: zauberwild@gmail.com
+- 📫 How to reach me: arvid.randow@gmail.com
 
 <!---
 zauberwild/zauberwild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
